@@ -34,17 +34,6 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=00enx&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00enx&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 </p>
 
 ---
-
-### 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/00enx)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
-
----
-
-🔥 *"Code, Create, Conquer!"* 🔥
