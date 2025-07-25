@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm 00enx
 
-### 🚀 Learner Developer | Passionate About Code & Creativity
+### 🚀 Learner Developer | Coding & Design
 
 ---
 
